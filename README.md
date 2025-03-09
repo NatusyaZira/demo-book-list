@@ -1,12 +1,43 @@
-# React + Vite
+# Book List React Application
+This project is a simple CRUD application built with React and Vite for the front-end and JSON Server for a fake REST API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prerequisites
+Before running the application, make sure you have the following installed:
+  Node.js (v14.x or higher)
+  npm (Node package manager)
+  Steps to Run the Application Locally
+  ### 1. Clone the Repository
+  If you haven't cloned the repository yet, use the following command:
 
-Currently, two official plugins are available:
+  *git clone "https://github.com/NatusyaZira/demo-book-list.git"*
+  *cd demo-book-list*
+  
+  ### 2. Install Dependencies
+  Install the necessary dependencies for the project by running:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  *npm install*
 
-## Expanding the ESLint configuration
+  ### 3. Set Up the JSON Server
+  The project uses a JSON Server to simulate a fake REST API. Follow these steps to set it up:
+  Install JSON Server globally:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  *npm install -g json-server*
+  
+  Start the JSON Server:
+  *json-server --watch db.json --port 5001*
+
+  ### 4. Run the React Application
+  Start the React development server:
+  
+  *npm run dev*
+  
+  The React application should now be accessible at http://localhost:5173 (default port for Vite).
+
+  ### 5. Check the Application
+  Open http://localhost:5173 in your browser. You should see the book list application running. You can:
+
+  + View a list of books (dashboard).
+  + Add a new book.
+  + Edit books.
+  + Delete books.
+  + Deactivate books.
