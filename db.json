@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "title": "One Hundred Years",
+      "author": "Gabriel García Márquez",
+      "category": "Magic realism",
+      "isbn": "156073347",
+      "createdAt": "2025-03-06T10:00:00Z",
+      "modifiedAt": "2025-03-09T11:00:22.615Z",
+      "isActive": true,
+      "id": "1"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic",
+      "isbn": "978074327",
+      "createdAt": "2025-03-06T11:00:00Z",
+      "modifiedAt": "2025-03-09T11:34:09.686Z",
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "isbn": "978045152",
+      "createdAt": "2025-03-06T12:00:00Z",
+      "modifiedAt": "2025-03-09T10:14:22.877Z",
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic",
+      "isbn": "978006112",
+      "createdAt": "2025-03-06T13:00:00Z",
+      "modifiedAt": "2025-03-09T10:30:14.377Z",
+      "isActive": true,
+      "id": "4"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Classic",
+      "isbn": "978031676",
+      "createdAt": "2025-03-06T14:00:00Z",
+      "modifiedAt": "2025-03-09T11:37:10.128Z",
+      "isActive": true,
+      "id": "5"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "isbn": "978014143",
+      "createdAt": "2025-03-06T15:00:00Z",
+      "modifiedAt": "2025-03-09T11:07:21.927Z",
+      "isActive": true,
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "isbn": "978026110",
+      "createdAt": "2025-03-06T16:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "8",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "category": "Historical Fiction",
+      "isbn": "9780143039",
+      "createdAt": "2025-03-06T17:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Dystopian",
+      "isbn": "978006085",
+      "createdAt": "2025-03-06T18:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "10",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "category": "Adventure",
+      "isbn": "978185124",
+      "createdAt": "2025-03-06T19:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "11",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "isbn": "978026110",
+      "createdAt": "2025-03-06T20:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "12",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "category": "Fantasy",
+      "isbn": "978006440",
+      "createdAt": "2025-03-06T21:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "13",
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "category": "Satire",
+      "isbn": "978145162",
+      "createdAt": "2025-03-06T22:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "14",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "category": "Gothic",
+      "isbn": "978014143",
+      "createdAt": "2025-03-06T23:00:00Z",
+      "modifiedAt": null,
+      "isActive": true
+    }
+  ]
+}
